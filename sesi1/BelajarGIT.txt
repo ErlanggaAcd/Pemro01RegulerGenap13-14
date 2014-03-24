@@ -1,0 +1,7 @@
+//LATIHAN REPOSITORY dan GIT
+//Nama file : BelajarGIT.txt
+
+Latihan GIT
+Dengan memasukan file dalam bentuk .txt
+Created By	: Erlangga Achmad
+Periode		: 24 Maret 2014	

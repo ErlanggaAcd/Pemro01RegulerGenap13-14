@@ -1,0 +1,13 @@
+//Belajar Git dengan melakukan push pada github
+//Menampilkan Biodata Pribadi
+//Perintah yang dua
+
+Nama              : Erlangga Achmad
+NIM	          : 4512210010
+Alamat            : Bekasi
+Tempat Lahir      : Jakarta
+Hobby             : Futsal
+Email di Github   : ErlanggaAcd
+Email connect     : Erlangga22v@gmail.com
+
+ 
